@@ -4,7 +4,8 @@
 
 ## 개요
 
-이 프로젝트는 호텔 프론트데스크에서 사용할 수 있는 실시간 음성 번역 애플리케이션입니다. 브라우저 마이크로 음성을 녹음하고, Azure Speech Service를 사용하여 음성을 텍스트로 변환(STT)하고 자동 언어를 감지한 후, Azure OpenAI를 통해 번역하고, 다시 Azure Speech Service로 음성으로 변환(TTS)하여 재생합니다.
+이 프로젝트는 실시간 음성 번역 애플리케이션입니다. 
+브라우저 마이크로 음성을 녹음하고, Azure Speech Service를 사용하여 음성을 텍스트로 변환(STT)하고 자동 언어를 감지한 후, Azure OpenAI를 통해 번역하고, 다시 Azure Speech Service로 음성으로 변환(TTS)하여 재생합니다.
 
 ## 주요 기능
 
