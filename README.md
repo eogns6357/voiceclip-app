@@ -1,6 +1,6 @@
-# Voice Translation App - Hotel Front Desk PoC
+# Voice Translation App
 
-실시간 음성 번역 애플리케이션 (Proof of Concept) - 호텔 프론트데스크용
+실시간 음성 번역 애플리케이션 (Proof of Concept)
 
 ## 개요
 
